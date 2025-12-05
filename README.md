@@ -1,5 +1,5 @@
-<h1>Hi ,I am Haresh Yadav </h1>
-- Recent IT graduate specialized in automation testing & full-stack development
+<h1>Hi 👋,I am Haresh Yadav </h1>
+<h3>- Recent IT graduate specialized in automation testing & full-stack development
 - Proficient in Java, React, Spring Boot, and Selenium
 
 ## 🛠️ Tech Stack
@@ -26,7 +26,7 @@ Real-time weather app using JavaScript with API integration and responsive UI
 ## 📫 Contact
 - Email: hareshy561@gmail.com  
 - LinkedIn: linkedin.com/in/hareshyadav  
-- Location: Thane, Mumbai
+- Location: Thane, Mumbai</h3>
 
 <!--
 **Hareshyadav/Hareshyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
