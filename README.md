@@ -1,5 +1,4 @@
-## Hi there 👋
-## 👤 Profile
+<h1>Hi ,I am Haresh Yadav </h1>
 - Recent IT graduate specialized in automation testing & full-stack development
 - Proficient in Java, React, Spring Boot, and Selenium
 
