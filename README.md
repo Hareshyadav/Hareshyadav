@@ -24,7 +24,7 @@ React & Tailwind frontend with MongoDB, featuring book cataloging and member man
 Real-time weather app using JavaScript with API integration and responsive UI
 
 ## 📫 Contact
-- Email: hareshy561@gmail.com  
+- Email: hareshy841@gmail.com  
 - LinkedIn: linkedin.com/in/hareshyadav  
 - Location: Thane, Mumbai</h3>
 
