@@ -1,44 +1,24 @@
-<h1>Hi 👋,I am Haresh Yadav </h1>
-<h3>- Recent IT graduate specialized in automation testing & full-stack development
-- Proficient in Java, React, Spring Boot, and Selenium
+# 💫 About Me:
+HARESH<br>YADAV<br><br>Full Stack Developer with hands-on experience in building scalable web applications using Java (Core),<br>Spring Boot, and modern frontend technologies like React (Vite). Proficient in designing and consuming<br>RESTful APIs, database management with MySQL, and API testing using Postman. Strong understanding of<br>backend architecture, client-server communication, and full development lifecycle.<br>EDUCATION<br>Higher Secondary Certificate<br>St. Lawrence High School & Jr.<br>College Of Science - Commerce<br>07/2019-03/2021<br>CGPA: 6.2 (PCMB)<br>Bachelor of Engineering<br>Yadavrao Tasgaonkar College of<br>Engineering and Management<br>09/2021-04/2025<br>CGPA:6.67<br>Informantion Technology<br>SKILLS<br>Java(Core)<br>JavaScript(E6+)<br>Spring Boot(MVC)<br>Spring Boot Suite<br>REST APIs<br>Vite React.js<br>mySQL(CRUD)<br>JDBC/JPA<br>Postman<br>Xampp<br>Git Bash & Github<br>Vs code<br>Jira(basic)<br>Manual Testing(fucntional testing)<br>PROJECTS<br>Banking Management System| March 2025<br>Developed a comprehensive banking application using Java and Spring Boot<br>Executed manual testing to validate core banking functionalities and UI<br>requirements Verified transaction flow and user authentication scenarios<br>Utilized SQL database for efficient data storage and retrieval Created<br>responsive frontend using HTML, CSS, and JavaScript<br>Library Management System| August 2024<br>Built a full-stack web application for library operations management Designed userfriendly<br>interface using React.js and Tailwind CSS Implemented MongoDB for flexible<br>data management<br>Developed features for book cataloging, member management, and issue<br>tracking<br>Performed manual testing to validate book management, issue, and return workflows<br>Identified UI and functional defects during test execution<br>Employee Management System | February 2024<br>Created enterprise-level employee management solution using.NET framework<br>Designed efficient database schemas using SQL for employee data management<br>Implemented CRUD operations with optimized performance Developed reporting<br>modules for HR analytics<br>Conducted manual testing on CRUD operations and employee data workflows<br>Validated functional requirements and verified defect fixes<br>Weather API Integration Project | December 2023<br>Developed real-time weather application using JavaScript and external APIs<br>Implemented responsive design using CSS and Tailwind framework<br>Created dynamic user interface with real-time data updates<br>Executed manual testing to validate API data display and UI behavior Tested application response for different weather inputs and edge cases<br>HANDS-ON PRACTICE – MANUAL TESTING<br>Designed test scenarios and test cases for web applications<br>Executed manual test cases and identified functional & UI defects<br>Practiced defect logging using Jira & Bugzilla (Basic)<br>Performed Smoke, Sanity, Regression, and Retesting<br>Worked with SDLC, STLC, and Defect Life Cycle concepts<br>(Spring Boot & Vite React.js)
 
-## 🛠️ Tech Stack
-- **Languages:** Java, JavaScript, HTML/CSS
-- **Frameworks:** React, Spring Boot, .NET, Tailwind CSS
-- **Databases:** SQL, MongoDB
-- **Testing:** Selenium WebDriver
-- **Tools:** Git, REST APIs
 
-## 💼 Projects
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haresh_4063) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hareshyadav/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Haresh-Yadav-37) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/http://reddit.com/user/Hareshyadav/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Haresh Yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yharesh841@gmail.com) 
 
-**🏦 Banking System**  
-Java/Spring Boot app with secure auth, transactions, SQL DB, and Selenium testing
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Hareshyadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Hareshyadav&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hareshyadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**📚 Library Management**  
-React & Tailwind frontend with MongoDB, featuring book cataloging and member management
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**👥 Employee Management**  
-.NET solution with SQL DB, CRUD operations, reporting, and Selenium testing
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hareshyadav&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-**🌤️ Weather App**  
-Real-time weather app using JavaScript with API integration and responsive UI
+---
+[![](https://komarev.com/ghpvc/?username=Hareshyadav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 Contact
-- Email: hareshy841@gmail.com  
-- LinkedIn: linkedin.com/in/hareshyadav  
-- Location: Thane, Mumbai</h3>
-
-<!--
-**Hareshyadav/Hareshyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
