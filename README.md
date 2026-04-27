@@ -1,18 +1,115 @@
-# 💫 About Me:
-Hey, I'm Haresh — a Full Stack Developer who actually enjoys building things that work. I code with Java (Core), Spring Boot, and React (Vite) to turn ideas into real web apps. I break things on purpose using automation and TensorFlow to make systems smarter and bug-free. REST APIs, MySQL, Postman, Git — that's my daily playground. I love the full cycle: from git init to live deployment, with clean code and zero drama. Let's build something awesome — energetic, curious, and always leveling up.
+<div align="center">
 
+# 👨‍💻 Haresh Yadav
+### Full Stack Developer | Java • Spring Boot • React
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haresh_4063) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hareshyadav/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Haresh-Yadav-37) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/http://reddit.com/user/Hareshyadav/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Haresh_4063) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yharesh841@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+Real+World+Applications;Spring+Boot+%2B+React+Developer;Automation+%2B+AI+Explorer;From+Idea+to+Deployment" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Hareshyadav&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Hareshyadav&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hareshyadav&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hareshyadav&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Hareshyadav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 💫 About Me
+
+I build scalable, production-ready applications using **Java, Spring Boot, and React (Vite)**.  
+My workflow spans backend architecture, REST APIs, frontend systems, and deployment pipelines.  
+
+I also explore **automation and AI (TensorFlow)** to improve system reliability and reduce manual effort.
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
+![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)
+![Google Cloud](https://img.shields.io/badge/googlecloud-blue?style=for-the-badge&logo=google-cloud)
+![Angular](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular)
+![Apache Kafka](https://img.shields.io/badge/kafka-black?style=for-the-badge&logo=apachekafka)
+![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![FastAPI](https://img.shields.io/badge/fastapi-green?style=for-the-badge&logo=fastapi)
+![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring)
+![Vite](https://img.shields.io/badge/vite-purple?style=for-the-badge&logo=vite)
+![Maven](https://img.shields.io/badge/maven-red?style=for-the-badge&logo=apachemaven)
+![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb)
+![Adobe](https://img.shields.io/badge/adobe-red?style=for-the-badge&logo=adobe)
+![Figma](https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=figma)
+![TensorFlow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow)
+![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=jira)
+![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hareshyadav&show_icons=true&theme=tokyonight" height="160"/>
+
+<img src="https://streak-stats.demolab.com?user=Hareshyadav&theme=tokyonight" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareshyadav&layout=compact&theme=tokyonight" height="160"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hareshyadav&theme=tokyo-night" />
+
+</div>
+
+---
+
+## ⚙️ Technical Highlights
+
+- Designing **RESTful APIs** with Spring Boot (layered architecture, DTO pattern)  
+- Implementing **CRUD systems with validation and error handling**  
+- Working with **relational & NoSQL databases** (MySQL, MongoDB)  
+- API testing and automation using **Postman & scripting**  
+- Building responsive UI with **React + component-based architecture**  
+- Version control workflows using **Git (branching, merging, PRs)**  
+- Exploring **AI/ML integration using TensorFlow**  
+
+---
+
+## 🧠 Core Focus
+
+- Backend Engineering (Spring Boot)  
+- Frontend Systems (React)  
+- API Design & Integration  
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hareshyadav/)
+[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://instagram.com/haresh_4063)
+[![Quora](https://img.shields.io/badge/Quora-darkred?logo=quora)](https://www.quora.com/profile/Haresh-Yadav-37)
+[![Reddit](https://img.shields.io/badge/Reddit-orange?logo=reddit)](https://www.reddit.com/user/Hareshyadav/)
+[![X](https://img.shields.io/badge/X-black?logo=twitter)](https://x.com/Haresh_4063)
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:yharesh841@gmail.com)
+
+</div>
