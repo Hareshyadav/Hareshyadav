@@ -61,11 +61,11 @@ I also explore **automation and AI (TensorFlow)** to improve system reliability 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hareshyadav&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hareshyadav&show_icons=true&theme=tokyonight" height="160"/>
 
 <img src="https://streak-stats.demolab.com?user=Hareshyadav&theme=tokyonight" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareshyadav&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hareshyadav&layout=compact&theme=tokyonight" height="160"/>
 
 </div>
 
