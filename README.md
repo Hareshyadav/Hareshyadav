@@ -3,11 +3,11 @@
 # 👨‍💻 Haresh Yadav
 ### Full Stack Developer | Java • Spring Boot • React
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+Real+World+Applications;Spring+Boot+%2B+React+Developer;Automation+%2B+AI+Explorer;From+Idea+to+Deployment" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+Real+World+Applications;Spring+Boot+%2B+React+Developer;Automation+%2B+AI+Explorer;From+Idea+to+Deployment" alt="Typing animation" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hareshyadav&label=Profile%20Views&color=0e75b6&style=flat)
+<a href="https://hits.sh/github.com/Hareshyadav/Hareshyadav/"><img alt="Profile views" src="https://hits.sh/github.com/Hareshyadav/Hareshyadav.svg?style=flat&label=Profile%20Views&color=0e75b6"/></a>
 
 </div>
 
@@ -61,11 +61,9 @@ I also explore **automation and AI (TensorFlow)** to improve system reliability 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hareshyadav&show_icons=true&theme=tokyonight" height="160"/>
-
-<img src="https://streak-stats.demolab.com?user=Hareshyadav&theme=tokyonight" height="160"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hareshyadav&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hareshyadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com?user=Hareshyadav&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareshyadav&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages"/>
 
 </div>
 
@@ -75,7 +73,7 @@ I also explore **automation and AI (TensorFlow)** to improve system reliability 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hareshyadav&theme=tokyo-night" />
+<img src="https://ghchart.rshah.org/00f7ff/Hareshyadav" alt="Hareshyadav's GitHub contribution chart" width="90%"/>
 
 </div>
 
